@@ -1,0 +1,2217 @@
+Finished resizing sigmaK, sigmaQ, sigmaR
+Finished setting sigmaK, sigmaQ, sigmaR to zero
+Finished creating empty matrices
+Start to run program. Run name: chiUnderline_1000_a_e_0150_a_h_0050_gamma_e_0500_gamma_h_8000_psi_e_0500_psi_h_1500
+Computing for error
+Updating value functions
+
+========================= Iteration: 0 =============================
+First iteration: no error information.
+Households allowed to hold capital, use kappa = w or the preloaded solution as guess.
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 176.804; took 7596 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 104 (experts) and 97 (households) iterations.
+Solved linear systems.
+Iteration 0 is completed; time elapsed: 178.618; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.61498
+Computing for error
+Updating value functions
+
+========================= Iteration: 1 =============================
+Error for xi_e: 14.4558
+Error for xi_h: -1.64476
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 80.8544; took 3005 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 100 (experts) and 97 (households) iterations.
+Solved linear systems.
+Iteration 1 is completed; time elapsed: 82.6009; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.59516
+Computing for error
+Updating value functions
+
+========================= Iteration: 2 =============================
+Error for xi_e: 5.03663
+Error for xi_h: -1.49231
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 48.6527; took 1802 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 98 (experts) and 97 (households) iterations.
+Solved linear systems.
+Iteration 2 is completed; time elapsed: 50.3901; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.59426
+Computing for error
+Updating value functions
+
+========================= Iteration: 3 =============================
+Error for xi_e: 3.68583
+Error for xi_h: -1.38711
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 87.6888; took 3248 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 94 (experts) and 96 (households) iterations.
+Solved linear systems.
+Iteration 3 is completed; time elapsed: 89.4025; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.56656
+Computing for error
+Updating value functions
+
+========================= Iteration: 4 =============================
+Error for xi_e: 2.7911
+Error for xi_h: -1.28224
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 81.4213; took 3023 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 89 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 4 is completed; time elapsed: 83.1146; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.54654
+Computing for error
+Updating value functions
+
+========================= Iteration: 5 =============================
+Error for xi_e: 2.00849
+Error for xi_h: -1.19351
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 46.8839; took 1753 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 5 is completed; time elapsed: 48.5609; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53094
+Computing for error
+Updating value functions
+
+========================= Iteration: 6 =============================
+Error for xi_e: 1.4148
+Error for xi_h: -1.12218
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 14.824; took 556 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 6 is completed; time elapsed: 16.4953; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53124
+Computing for error
+Updating value functions
+
+========================= Iteration: 7 =============================
+Error for xi_e: 0.990116
+Error for xi_h: -1.06469
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 56.0568; took 2110 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 7 is completed; time elapsed: 57.7335; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53194
+Computing for error
+Updating value functions
+
+========================= Iteration: 8 =============================
+Error for xi_e: 0.697302
+Error for xi_h: -1.01752
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 58.8255; took 2220 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 8 is completed; time elapsed: 60.509; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53833
+Computing for error
+Updating value functions
+
+========================= Iteration: 9 =============================
+Error for xi_e: 0.492046
+Error for xi_h: -0.978017
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 56.5334; took 2134 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 89 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 9 is completed; time elapsed: 58.235; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.55719
+Computing for error
+Updating value functions
+
+========================= Iteration: 10 =============================
+Error for xi_e: -0.373134
+Error for xi_h: -0.944304
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 53.797; took 2034 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 89 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 10 is completed; time elapsed: 55.4886; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.54658
+Computing for error
+Updating value functions
+
+========================= Iteration: 11 =============================
+Error for xi_e: -0.368394
+Error for xi_h: -0.915065
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 51.3696; took 1935 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 90 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 11 is completed; time elapsed: 53.0456; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53228
+Computing for error
+Updating value functions
+
+========================= Iteration: 12 =============================
+Error for xi_e: -0.364012
+Error for xi_h: -0.889359
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 48.8614; took 1839 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 90 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 12 is completed; time elapsed: 50.544; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.5377
+Computing for error
+Updating value functions
+
+========================= Iteration: 13 =============================
+Error for xi_e: -0.35995
+Error for xi_h: -0.866497
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 46.4959; took 1749 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 13 is completed; time elapsed: 48.1805; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53919
+Computing for error
+Updating value functions
+
+========================= Iteration: 14 =============================
+Error for xi_e: -0.356174
+Error for xi_h: -0.845967
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 44.3423; took 1664 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 14 is completed; time elapsed: 46.0275; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53896
+Computing for error
+Updating value functions
+
+========================= Iteration: 15 =============================
+Error for xi_e: -0.352653
+Error for xi_h: -0.827373
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 43.098; took 1614 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 96 (households) iterations.
+Solved linear systems.
+Iteration 15 is completed; time elapsed: 44.7957; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.5532
+Computing for error
+Updating value functions
+
+========================= Iteration: 16 =============================
+Error for xi_e: -0.34936
+Error for xi_h: -0.810411
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 40.7182; took 1519 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 96 (households) iterations.
+Solved linear systems.
+Iteration 16 is completed; time elapsed: 42.4216; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.55708
+Computing for error
+Updating value functions
+
+========================= Iteration: 17 =============================
+Error for xi_e: -0.346272
+Error for xi_h: -0.794838
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 39.1781; took 1461 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 17 is completed; time elapsed: 40.8804; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.55844
+Computing for error
+Updating value functions
+
+========================= Iteration: 18 =============================
+Error for xi_e: -0.343368
+Error for xi_h: -0.78046
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 34.5754; took 1286 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 99 (experts) and 94 (households) iterations.
+Solved linear systems.
+Iteration 18 is completed; time elapsed: 36.2942; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.58081
+Computing for error
+Updating value functions
+
+========================= Iteration: 19 =============================
+Error for xi_e: -0.340628
+Error for xi_h: -0.767119
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 43.6563; took 1625 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 99 (experts) and 116 (households) iterations.
+Solved linear systems.
+Iteration 19 is completed; time elapsed: 45.4981; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.6965
+Computing for error
+Updating value functions
+
+========================= Iteration: 20 =============================
+Error for xi_e: -0.338037
+Error for xi_h: -0.754685
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 48.1471; took 1793 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 93 (experts) and 105 (households) iterations.
+Solved linear systems.
+Iteration 20 is completed; time elapsed: 49.899; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.60578
+Computing for error
+Updating value functions
+
+========================= Iteration: 21 =============================
+Error for xi_e: -0.336557
+Error for xi_h: -0.743557
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 52.6621; took 1958 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 94 (experts) and 104 (households) iterations.
+Solved linear systems.
+Iteration 21 is completed; time elapsed: 54.4119; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.60135
+Computing for error
+Updating value functions
+
+========================= Iteration: 22 =============================
+Error for xi_e: -0.337274
+Error for xi_h: -0.73739
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 57.5396; took 2139 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 90 (experts) and 108 (households) iterations.
+Solved linear systems.
+Iteration 22 is completed; time elapsed: 59.2915; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.60519
+Computing for error
+Updating value functions
+
+========================= Iteration: 23 =============================
+Error for xi_e: -0.337728
+Error for xi_h: -0.731216
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 63.2426; took 2353 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 93 (households) iterations.
+Solved linear systems.
+Iteration 23 is completed; time elapsed: 64.9432; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.55495
+Computing for error
+Updating value functions
+
+========================= Iteration: 24 =============================
+Error for xi_e: -0.337958
+Error for xi_h: -0.725277
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 70.2266; took 2622 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 107 (households) iterations.
+Solved linear systems.
+Iteration 24 is completed; time elapsed: 71.9714; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.60009
+Computing for error
+Updating value functions
+
+========================= Iteration: 25 =============================
+Error for xi_e: -0.33799
+Error for xi_h: -0.719789
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 80.0073; took 2985 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 102 (households) iterations.
+Solved linear systems.
+Iteration 25 is completed; time elapsed: 81.7279; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.57883
+Computing for error
+Updating value functions
+
+========================= Iteration: 26 =============================
+Error for xi_e: -0.337856
+Error for xi_h: -0.715038
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 94.2312; took 3515 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 102 (households) iterations.
+Solved linear systems.
+Iteration 26 is completed; time elapsed: 95.9563; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.58545
+Computing for error
+Updating value functions
+
+========================= Iteration: 27 =============================
+Error for xi_e: -0.337582
+Error for xi_h: -0.711522
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 117.453; took 4381 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 94 (households) iterations.
+Solved linear systems.
+Iteration 27 is completed; time elapsed: 119.151; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.56111
+Computing for error
+Updating value functions
+
+========================= Iteration: 28 =============================
+Error for xi_e: -0.337188
+Error for xi_h: -0.71036
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 164.109; took 6126 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 28 is completed; time elapsed: 165.785; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.54115
+Computing for error
+Updating value functions
+
+========================= Iteration: 29 =============================
+Error for xi_e: -0.347082
+Error for xi_h: -0.714965
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 204.62; took 7654 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 29 is completed; time elapsed: 206.291; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53615
+Computing for error
+Updating value functions
+
+========================= Iteration: 30 =============================
+Error for xi_e: -0.348529
+Error for xi_h: -0.710473
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 195.032; took 7270 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 93 (experts) and 102 (households) iterations.
+Solved linear systems.
+Iteration 30 is completed; time elapsed: 196.734; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.56632
+Computing for error
+Updating value functions
+
+========================= Iteration: 31 =============================
+Error for xi_e: -0.33546
+Error for xi_h: -0.683405
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 176.059; took 6587 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 96 (experts) and 105 (households) iterations.
+Solved linear systems.
+Iteration 31 is completed; time elapsed: 177.794; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.60139
+Computing for error
+Updating value functions
+
+========================= Iteration: 32 =============================
+Error for xi_e: -0.334744
+Error for xi_h: -0.660497
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 175.802; took 6560 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 102 (households) iterations.
+Solved linear systems.
+Iteration 32 is completed; time elapsed: 177.496; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.55891
+Computing for error
+Updating value functions
+
+========================= Iteration: 33 =============================
+Error for xi_e: -0.333974
+Error for xi_h: -0.650967
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 189.643; took 7090 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 97 (households) iterations.
+Solved linear systems.
+Iteration 33 is completed; time elapsed: 191.304; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.52729
+Computing for error
+Updating value functions
+
+========================= Iteration: 34 =============================
+Error for xi_e: -0.333158
+Error for xi_h: -0.645047
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 247.417; took 9235 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 34 is completed; time elapsed: 249.052; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.4992
+Computing for error
+Updating value functions
+
+========================= Iteration: 35 =============================
+Error for xi_e: -0.332304
+Error for xi_h: -0.639312
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 86.6342; took 3236 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 86 (experts) and 94 (households) iterations.
+Solved linear systems.
+Iteration 35 is completed; time elapsed: 88.2522; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.48382
+Computing for error
+Updating value functions
+
+========================= Iteration: 36 =============================
+Error for xi_e: -0.331416
+Error for xi_h: -0.633717
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 86.038; took 3212 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 86 (experts) and 93 (households) iterations.
+Solved linear systems.
+Iteration 36 is completed; time elapsed: 87.6511; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47683
+Computing for error
+Updating value functions
+
+========================= Iteration: 37 =============================
+Error for xi_e: -0.330501
+Error for xi_h: -0.628284
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 52.4475; took 1954 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 85 (experts) and 93 (households) iterations.
+Solved linear systems.
+Iteration 37 is completed; time elapsed: 54.0628; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47836
+Computing for error
+Updating value functions
+
+========================= Iteration: 38 =============================
+Error for xi_e: -0.329562
+Error for xi_h: -0.622971
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 35.1285; took 1308 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 85 (experts) and 92 (households) iterations.
+Solved linear systems.
+Iteration 38 is completed; time elapsed: 36.7369; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47406
+Computing for error
+Updating value functions
+
+========================= Iteration: 39 =============================
+Error for xi_e: -0.328604
+Error for xi_h: -0.617812
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 45.1214; took 1678 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 83 (experts) and 87 (households) iterations.
+Solved linear systems.
+Iteration 39 is completed; time elapsed: 46.6971; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.44077
+Computing for error
+Updating value functions
+
+========================= Iteration: 40 =============================
+Error for xi_e: -0.32763
+Error for xi_h: -0.612799
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 40.8025; took 1518 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 84 (experts) and 87 (households) iterations.
+Solved linear systems.
+Iteration 40 is completed; time elapsed: 42.3691; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.43231
+Computing for error
+Updating value functions
+
+========================= Iteration: 41 =============================
+Error for xi_e: -0.326643
+Error for xi_h: -0.607893
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 40.1161; took 1487 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 83 (experts) and 86 (households) iterations.
+Solved linear systems.
+Iteration 41 is completed; time elapsed: 41.6759; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.42433
+Computing for error
+Updating value functions
+
+========================= Iteration: 42 =============================
+Error for xi_e: -0.325646
+Error for xi_h: -0.603125
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 38.1313; took 1417 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 82 (experts) and 85 (households) iterations.
+Solved linear systems.
+Iteration 42 is completed; time elapsed: 39.6879; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.42178
+Computing for error
+Updating value functions
+
+========================= Iteration: 43 =============================
+Error for xi_e: -0.324641
+Error for xi_h: -0.598485
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 37.6779; took 1401 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 82 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 43 is completed; time elapsed: 39.219; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40677
+Computing for error
+Updating value functions
+
+========================= Iteration: 44 =============================
+Error for xi_e: -0.32363
+Error for xi_h: -0.59397
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 36.531; took 1354 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 44 is completed; time elapsed: 38.0585; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39309
+Computing for error
+Updating value functions
+
+========================= Iteration: 45 =============================
+Error for xi_e: -0.323055
+Error for xi_h: -0.589573
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 35.4494; took 1314 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 85 (households) iterations.
+Solved linear systems.
+Iteration 45 is completed; time elapsed: 36.9885; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40438
+Computing for error
+Updating value functions
+
+========================= Iteration: 46 =============================
+Error for xi_e: -0.322437
+Error for xi_h: -0.585293
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 34.7194; took 1287 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 46 is completed; time elapsed: 36.2552; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40105
+Computing for error
+Updating value functions
+
+========================= Iteration: 47 =============================
+Error for xi_e: -0.32177
+Error for xi_h: -0.581126
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 34.0331; took 1260 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 47 is completed; time elapsed: 35.5724; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40448
+Computing for error
+Updating value functions
+
+========================= Iteration: 48 =============================
+Error for xi_e: -0.321061
+Error for xi_h: -0.577069
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 33.3342; took 1234 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 48 is completed; time elapsed: 34.8649; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39611
+Computing for error
+Updating value functions
+
+========================= Iteration: 49 =============================
+Error for xi_e: -0.320316
+Error for xi_h: -0.573119
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 32.7293; took 1210 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 49 is completed; time elapsed: 34.2594; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39556
+Computing for error
+Updating value functions
+
+========================= Iteration: 50 =============================
+Error for xi_e: -0.31954
+Error for xi_h: -0.569273
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 32.0657; took 1187 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 50 is completed; time elapsed: 33.5918; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39064
+Computing for error
+Updating value functions
+
+========================= Iteration: 51 =============================
+Error for xi_e: -0.318736
+Error for xi_h: -0.565528
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 31.5398; took 1165 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 51 is completed; time elapsed: 33.0648; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39054
+Computing for error
+Updating value functions
+
+========================= Iteration: 52 =============================
+Error for xi_e: -0.31791
+Error for xi_h: -0.561882
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.9428; took 1144 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 82 (households) iterations.
+Solved linear systems.
+Iteration 52 is completed; time elapsed: 32.4617; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38351
+Computing for error
+Updating value functions
+
+========================= Iteration: 53 =============================
+Error for xi_e: -0.317064
+Error for xi_h: -0.558331
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.4237; took 1124 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 78 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 53 is completed; time elapsed: 31.9423; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38414
+Computing for error
+Updating value functions
+
+========================= Iteration: 54 =============================
+Error for xi_e: -0.316202
+Error for xi_h: -0.554874
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.0076; took 1104 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 78 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 54 is completed; time elapsed: 31.527; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38301
+Computing for error
+Updating value functions
+
+========================= Iteration: 55 =============================
+Error for xi_e: -0.315326
+Error for xi_h: -0.551507
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 29.4885; took 1086 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 78 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 55 is completed; time elapsed: 31.0088; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38566
+Computing for error
+Updating value functions
+
+========================= Iteration: 56 =============================
+Error for xi_e: -0.314438
+Error for xi_h: -0.548228
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 28.9556; took 1067 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 82 (households) iterations.
+Solved linear systems.
+Iteration 56 is completed; time elapsed: 30.4749; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38491
+Computing for error
+Updating value functions
+
+========================= Iteration: 57 =============================
+Error for xi_e: -0.313541
+Error for xi_h: -0.545034
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 28.4944; took 1051 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 82 (households) iterations.
+Solved linear systems.
+Iteration 57 is completed; time elapsed: 30.0108; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38154
+Computing for error
+Updating value functions
+
+========================= Iteration: 58 =============================
+Error for xi_e: -0.312636
+Error for xi_h: -0.541924
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 28.087; took 1034 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 82 (households) iterations.
+Solved linear systems.
+Iteration 58 is completed; time elapsed: 29.6075; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38433
+Computing for error
+Updating value functions
+
+========================= Iteration: 59 =============================
+Error for xi_e: -0.311725
+Error for xi_h: -0.538894
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 27.6149; took 1017 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 85 (households) iterations.
+Solved linear systems.
+Iteration 59 is completed; time elapsed: 29.1588; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40766
+Computing for error
+Updating value functions
+
+========================= Iteration: 60 =============================
+Error for xi_e: -0.310809
+Error for xi_h: -0.535943
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 27.475; took 1011 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 82 (households) iterations.
+Solved linear systems.
+Iteration 60 is completed; time elapsed: 29.0138; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40438
+Computing for error
+Updating value functions
+
+========================= Iteration: 61 =============================
+Error for xi_e: -0.30989
+Error for xi_h: -0.533069
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 27.1004; took 997 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 61 is completed; time elapsed: 28.623; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38808
+Computing for error
+Updating value functions
+
+========================= Iteration: 62 =============================
+Error for xi_e: -0.308969
+Error for xi_h: -0.53027
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 26.842; took 985 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 62 is completed; time elapsed: 28.383; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40604
+Computing for error
+Updating value functions
+
+========================= Iteration: 63 =============================
+Error for xi_e: -0.308046
+Error for xi_h: -0.527543
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 26.5451; took 975 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 63 is completed; time elapsed: 28.0757; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39586
+Computing for error
+Updating value functions
+
+========================= Iteration: 64 =============================
+Error for xi_e: -0.307127
+Error for xi_h: -0.524886
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 26.2145; took 964 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 64 is completed; time elapsed: 27.7686; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.41974
+Computing for error
+Updating value functions
+
+========================= Iteration: 65 =============================
+Error for xi_e: -0.306207
+Error for xi_h: -0.522299
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 26.0074; took 955 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 65 is completed; time elapsed: 27.5501; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.4079
+Computing for error
+Updating value functions
+
+========================= Iteration: 66 =============================
+Error for xi_e: -0.305287
+Error for xi_h: -0.519778
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 25.7455; took 945 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 85 (households) iterations.
+Solved linear systems.
+Iteration 66 is completed; time elapsed: 27.2927; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.41241
+Computing for error
+Updating value functions
+
+========================= Iteration: 67 =============================
+Error for xi_e: -0.304369
+Error for xi_h: -0.517323
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 25.5142; took 937 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 85 (households) iterations.
+Solved linear systems.
+Iteration 67 is completed; time elapsed: 27.0622; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.41331
+Computing for error
+Updating value functions
+
+========================= Iteration: 68 =============================
+Error for xi_e: -0.303451
+Error for xi_h: -0.514932
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 25.2475; took 929 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 83 (experts) and 86 (households) iterations.
+Solved linear systems.
+Iteration 68 is completed; time elapsed: 26.817; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.43403
+Computing for error
+Updating value functions
+
+========================= Iteration: 69 =============================
+Error for xi_e: -0.302535
+Error for xi_h: -0.512602
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 25.0665; took 922 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 83 (experts) and 86 (households) iterations.
+Solved linear systems.
+Iteration 69 is completed; time elapsed: 26.6259; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.42479
+Computing for error
+Updating value functions
+
+========================= Iteration: 70 =============================
+Error for xi_e: -0.30162
+Error for xi_h: -0.510334
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.835; took 914 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 84 (experts) and 87 (households) iterations.
+Solved linear systems.
+Iteration 70 is completed; time elapsed: 26.4084; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.43864
+Computing for error
+Updating value functions
+
+========================= Iteration: 71 =============================
+Error for xi_e: -0.300706
+Error for xi_h: -0.508124
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.7647; took 909 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 84 (experts) and 87 (households) iterations.
+Solved linear systems.
+Iteration 71 is completed; time elapsed: 26.3356; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.43637
+Computing for error
+Updating value functions
+
+========================= Iteration: 72 =============================
+Error for xi_e: -0.299795
+Error for xi_h: -0.505972
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.5284; took 902 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 88 (households) iterations.
+Solved linear systems.
+Iteration 72 is completed; time elapsed: 26.1187; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.45557
+Computing for error
+Updating value functions
+
+========================= Iteration: 73 =============================
+Error for xi_e: -0.298885
+Error for xi_h: -0.503876
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.3595; took 896 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 90 (experts) and 89 (households) iterations.
+Solved linear systems.
+Iteration 73 is completed; time elapsed: 25.9736; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47965
+Computing for error
+Updating value functions
+
+========================= Iteration: 74 =============================
+Error for xi_e: -0.297977
+Error for xi_h: -0.501834
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.3005; took 892 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 89 (households) iterations.
+Solved linear systems.
+Iteration 74 is completed; time elapsed: 25.9043; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.4665
+Computing for error
+Updating value functions
+
+========================= Iteration: 75 =============================
+Error for xi_e: -0.29707
+Error for xi_h: -0.499847
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.0789; took 886 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 90 (experts) and 89 (households) iterations.
+Solved linear systems.
+Iteration 75 is completed; time elapsed: 25.6972; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.4834
+Computing for error
+Updating value functions
+
+========================= Iteration: 76 =============================
+Error for xi_e: -0.296164
+Error for xi_h: -0.497911
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 24.0572; took 883 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 90 (households) iterations.
+Solved linear systems.
+Iteration 76 is completed; time elapsed: 25.6648; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47185
+Computing for error
+Updating value functions
+
+========================= Iteration: 77 =============================
+Error for xi_e: -0.29526
+Error for xi_h: -0.496027
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 23.8963; took 878 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 91 (households) iterations.
+Solved linear systems.
+Iteration 77 is completed; time elapsed: 25.5442; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.51336
+Computing for error
+Updating value functions
+
+========================= Iteration: 78 =============================
+Error for xi_e: -0.294356
+Error for xi_h: -0.494192
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 23.8235; took 875 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 94 (households) iterations.
+Solved linear systems.
+Iteration 78 is completed; time elapsed: 25.4733; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.51544
+Computing for error
+Updating value functions
+
+========================= Iteration: 79 =============================
+Error for xi_e: -0.293454
+Error for xi_h: -0.492407
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 23.749; took 872 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 94 (households) iterations.
+Solved linear systems.
+Iteration 79 is completed; time elapsed: 25.4186; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53368
+Computing for error
+Updating value functions
+
+========================= Iteration: 80 =============================
+Error for xi_e: -0.292552
+Error for xi_h: -0.490668
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 23.6349; took 869 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 93 (households) iterations.
+Solved linear systems.
+Iteration 80 is completed; time elapsed: 25.3025; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53217
+Computing for error
+Updating value functions
+
+========================= Iteration: 81 =============================
+Error for xi_e: -0.29165
+Error for xi_h: -0.488977
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 11.9781; took 440 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 95 (households) iterations.
+Solved linear systems.
+Iteration 81 is completed; time elapsed: 13.6338; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.52146
+Computing for error
+Updating value functions
+
+========================= Iteration: 82 =============================
+Error for xi_e: -0.291036
+Error for xi_h: -0.487331
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 31.3099; took 1152 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 93 (experts) and 96 (households) iterations.
+Solved linear systems.
+Iteration 82 is completed; time elapsed: 32.9775; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53008
+Computing for error
+Updating value functions
+
+========================= Iteration: 83 =============================
+Error for xi_e: -0.289851
+Error for xi_h: -0.485733
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 12.0034; took 441 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 94 (experts) and 97 (households) iterations.
+Solved linear systems.
+Iteration 83 is completed; time elapsed: 13.6863; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.54845
+Computing for error
+Updating value functions
+
+========================= Iteration: 84 =============================
+Error for xi_e: -0.289213
+Error for xi_h: -0.484167
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 32.5276; took 1192 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 94 (experts) and 94 (households) iterations.
+Solved linear systems.
+Iteration 84 is completed; time elapsed: 34.1952; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.53276
+Computing for error
+Updating value functions
+
+========================= Iteration: 85 =============================
+Error for xi_e: -0.28804
+Error for xi_h: -0.482656
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 12.8482; took 471 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 91 (experts) and 93 (households) iterations.
+Solved linear systems.
+Iteration 85 is completed; time elapsed: 14.4815; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.49854
+Computing for error
+Updating value functions
+
+========================= Iteration: 86 =============================
+Error for xi_e: -0.287124
+Error for xi_h: -0.481175
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.056; took 1102 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 92 (experts) and 92 (households) iterations.
+Solved linear systems.
+Iteration 86 is completed; time elapsed: 31.7076; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.51644
+Computing for error
+Updating value functions
+
+========================= Iteration: 87 =============================
+Error for xi_e: -0.286309
+Error for xi_h: -0.479919
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 12.8698; took 471 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 91 (households) iterations.
+Solved linear systems.
+Iteration 87 is completed; time elapsed: 14.4837; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47932
+Computing for error
+Updating value functions
+
+========================= Iteration: 88 =============================
+Error for xi_e: -0.285799
+Error for xi_h: -0.478744
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.3552; took 1115 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 91 (households) iterations.
+Solved linear systems.
+Iteration 88 is completed; time elapsed: 31.9768; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.48619
+Computing for error
+Updating value functions
+
+========================= Iteration: 89 =============================
+Error for xi_e: -0.286431
+Error for xi_h: -0.477979
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 12.9336; took 474 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 88 (experts) and 90 (households) iterations.
+Solved linear systems.
+Iteration 89 is completed; time elapsed: 14.5388; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.47057
+Computing for error
+Updating value functions
+
+========================= Iteration: 90 =============================
+Error for xi_e: -0.28486
+Error for xi_h: -0.476695
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.2224; took 1110 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 88 (households) iterations.
+Solved linear systems.
+Iteration 90 is completed; time elapsed: 31.8187; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.46102
+Computing for error
+Updating value functions
+
+========================= Iteration: 91 =============================
+Error for xi_e: -0.285659
+Error for xi_h: -0.476877
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 13.3663; took 490 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 87 (households) iterations.
+Solved linear systems.
+Iteration 91 is completed; time elapsed: 14.971; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.46732
+Computing for error
+Updating value functions
+
+========================= Iteration: 92 =============================
+Error for xi_e: -0.283678
+Error for xi_h: -0.47491
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.4483; took 1120 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 86 (experts) and 86 (households) iterations.
+Solved linear systems.
+Iteration 92 is completed; time elapsed: 32.0398; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.45296
+Computing for error
+Updating value functions
+
+========================= Iteration: 93 =============================
+Error for xi_e: -0.284656
+Error for xi_h: -0.475465
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 28.4787; took 1046 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 87 (experts) and 86 (households) iterations.
+Solved linear systems.
+Iteration 93 is completed; time elapsed: 30.062; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.44774
+Computing for error
+Updating value functions
+
+========================= Iteration: 94 =============================
+Error for xi_e: -0.283636
+Error for xi_h: -0.47459
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 30.8136; took 1131 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 85 (experts) and 85 (households) iterations.
+Solved linear systems.
+Iteration 94 is completed; time elapsed: 32.3785; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.43017
+Computing for error
+Updating value functions
+
+========================= Iteration: 95 =============================
+Error for xi_e: -0.283029
+Error for xi_h: -0.473826
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 32.568; took 1195 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 84 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 95 is completed; time elapsed: 34.1264; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.42387
+Computing for error
+Updating value functions
+
+========================= Iteration: 96 =============================
+Error for xi_e: -0.282379
+Error for xi_h: -0.47305
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 34.4885; took 1265 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 82 (experts) and 84 (households) iterations.
+Solved linear systems.
+Iteration 96 is completed; time elapsed: 36.0415; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.41644
+Computing for error
+Updating value functions
+
+========================= Iteration: 97 =============================
+Error for xi_e: -0.281744
+Error for xi_h: -0.472326
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 36.4581; took 1337 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 82 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 97 is completed; time elapsed: 38.0129; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.41929
+Computing for error
+Updating value functions
+
+========================= Iteration: 98 =============================
+Error for xi_e: -0.281122
+Error for xi_h: -0.471657
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 38.4889; took 1414 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 82 (experts) and 83 (households) iterations.
+Solved linear systems.
+Iteration 98 is completed; time elapsed: 40.0216; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39776
+Computing for error
+Updating value functions
+
+========================= Iteration: 99 =============================
+Error for xi_e: -0.280526
+Error for xi_h: -0.471054
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 40.8362; took 1500 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 82 (experts) and 81 (households) iterations.
+Solved linear systems.
+Iteration 99 is completed; time elapsed: 42.3707; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39826
+Computing for error
+Updating value functions
+
+========================= Iteration: 100 =============================
+Error for xi_e: -0.279974
+Error for xi_h: -0.470538
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 43.6309; took 1601 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 81 (experts) and 81 (households) iterations.
+Solved linear systems.
+Iteration 100 is completed; time elapsed: 45.1601; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39463
+Computing for error
+Updating value functions
+
+========================= Iteration: 101 =============================
+Error for xi_e: -0.279496
+Error for xi_h: -0.470142
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 46.5867; took 1714 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 80 (experts) and 82 (households) iterations.
+Solved linear systems.
+Iteration 101 is completed; time elapsed: 48.1169; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.39486
+Computing for error
+Updating value functions
+
+========================= Iteration: 102 =============================
+Error for xi_e: -0.279082
+Error for xi_h: -0.46986
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 50.1376; took 1841 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 81 (households) iterations.
+Solved linear systems.
+Iteration 102 is completed; time elapsed: 51.6756; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.40049
+Computing for error
+Updating value functions
+
+========================= Iteration: 103 =============================
+Error for xi_e: -0.278739
+Error for xi_h: -0.469694
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 54.2833; took 1989 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 81 (households) iterations.
+Solved linear systems.
+Iteration 103 is completed; time elapsed: 55.7954; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.377
+Computing for error
+Updating value functions
+
+========================= Iteration: 104 =============================
+Error for xi_e: -0.278498
+Error for xi_h: -0.469679
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
+Inner loop is completed; time elapsed: 59.0611; took 2167 iterations.
+Finished computing derivs
+Finished updating equilibrium quantities. Next step: update matrices.
+Finished updating matrix.
+Finished updating the known vector.
+Solving systems using the implicit scheme via CG...
+Running conjugate gradient solver using 1 threads.
+CG error tolerance: 1e-07
+Factorizing preconditioners. Note that preconditioenrs are factorized every 1 iteration(s).
+Conjugate gradient (preconditioned) took 79 (experts) and 80 (households) iterations.
+Solved linear systems.
+Iteration 104 is completed; time elapsed: 60.5809; time spent on solving linear systems (or computing matrix vector product in explicit scheme): 1.38426
+Computing for error
+Updating value functions
+
+========================= Iteration: 105 =============================
+Error for xi_e: -0.278403
+Error for xi_h: -0.469861
+Tolerance not met; keep iterating. 
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
